@@ -1,2 +1,2 @@
-# coursework_2023
+# coursework 2023
 This coursework is about mushroom classification
