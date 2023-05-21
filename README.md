@@ -1,2 +1,2 @@
 # coursework 2023
-This coursework is about mushroom classification
+This coursework is about mushroom classification.
